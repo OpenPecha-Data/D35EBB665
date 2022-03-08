@@ -1653,72 +1653,84 @@ annotations:
     span:
       start: 313515
       end: 314825
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   105e3a4ca3f24473b3f21fa29978ed81:
     imgnum: 798
     reference: ''
     span:
       start: 314827
       end: 316185
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   79f3cc0092314611984e6d0bcbe66ca5:
     imgnum: 799
     reference: ''
     span:
       start: 316187
       end: 317569
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   1393b84f574b40309a6702b97571a2fb:
     imgnum: 800
     reference: ''
     span:
       start: 317571
       end: 318874
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   b9a724cc43b24e35a3680bf0ccac1382:
     imgnum: 801
     reference: ''
     span:
       start: 318876
       end: 320238
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   64dc6ae3358e43f297dc8d04510ca9be:
     imgnum: 802
     reference: ''
     span:
       start: 320240
       end: 321584
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   a6a7fc068f9c4510b1b3e71acf8ee936:
     imgnum: 803
     reference: ''
     span:
       start: 321586
       end: 322864
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   53f1c23d55f042ce9578a86767d28585:
     imgnum: 804
     reference: ''
     span:
       start: 322866
       end: 324191
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   ecc42540be734c289a49f877a9913b60:
     imgnum: 805
     reference: ''
     span:
       start: 324193
       end: 325617
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   c12cc2d36da741839019d370dafbe92a:
     imgnum: 806
     reference: ''
     span:
       start: 325619
       end: 326886
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   6bc4b5b8657f4ad09a4938ba69a85973:
     imgnum: 807
     reference: ''
     span:
       start: 326888
       end: 328243
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   69b70b029abc4d4eae0d7d67098609d5:
     imgnum: 808
     reference: ''
     span:
       start: 328245
       end: 329629
+    note_ref: a4d8c621dafb4d08aed8acef02ec4ef5
   311efcaa5ed1441583a370cc8f5f8472:
     imgnum: 809
     reference: ''
